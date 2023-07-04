@@ -1,1 +1,1 @@
-# dotfiles
+# My Linux configuration
