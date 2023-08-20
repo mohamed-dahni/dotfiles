@@ -45,7 +45,4 @@ I welcome contributions to this dotfiles repository. If you have any improvement
 ## License
 This repository is licensed under the MIT License, allowing you to use, modify, and distribute the code as you see fit. However, please note that this repository comes with absolutely no warranty.
 
-## Acknowledgments
-A big shout-out to the open-source community and fellow developers who have inspired and contributed to these dotfiles in various ways. Let's continue supporting each other and sharing our knowledge.
-
 Happy coding! 🚀
